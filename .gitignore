@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+*.hwpx
+*.pdf
+
+palm-sEMG-doorknob-filtered-main/data/
+
+*.pth
+*.pt
+*.pkl
+
+filter_check.png
+cwt_check.png
